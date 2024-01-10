@@ -2,6 +2,8 @@
 
 * ¡Bienvenido al Generador de Citas Inspiradoras! Este proyecto, construido con HTML, CSS y JavaScript, está diseñado para brindarte dosis diarias de motivación y reflexión. Descubre citas inspiradoras de personajes célebres con un toque de aleatoriedad y diversidad.
 
+<a href="https://luiso-o.github.io/Generador-de-citas-aleatorias/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
+
 ### Funcionalidades 🚀:
 
 1. Generación Aleatoria de Citas: Al cargar la página y al hacer clic en el botón correspondiente, una cita inspiradora se elige al azar de nuestra colección cuidadosamente seleccionada.
