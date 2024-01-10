@@ -35,3 +35,5 @@
 * ¡Explora, inspira y comparte la sabiduría! 🌈✨
 
 * <a href = "https://www.youtube.com/watch?v=koiPxFFiqJ4&t=12696s">⭐️ Proyectos ⭐️ Citas Aleatorias</a>
+
+![Capture](https://github.com/Luiso-o/Generador-de-citas-aleatorias/assets/128043647/606ddc27-21d8-401b-bfd4-13f8d30e7d01)
